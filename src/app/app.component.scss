@@ -1,0 +1,35 @@
+.inputBusca{
+  margin-top: 30px;
+  margin-right: 15px;
+}
+
+.campo{
+  width: 100%;
+  background-color: darkgray;
+  height: 65px;
+}
+
+h2{
+  margin-left: 25px;
+  margin-top: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(88, 88, 88);
+}
+
+.tableAdjust{
+  width: 80%;
+  margin-top: 10px;
+}
+
+.captionText{
+  text-decoration: underline;
+  text-decoration-color: rgb(253, 181, 47);
+}
+
+.precoAtual{
+  text-decoration: line-through;
+}
+.precoComDesconto{
+  font-weight: bold;
+  margin-left: 3px;
+}
